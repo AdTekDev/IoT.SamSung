@@ -20,15 +20,22 @@ python  timsolonnhat.py
 # Install
 
 sudo apt-get install wiringpi
+
 (http://wiringpi.com/download-and-install/)
 
 
 # install python 
 
+
 sudo apt install python3-gpiozero
+
+
 sudo apt install python-gpiozero
 
+
 hay
+
 sudo pip3 install gpiozero
+
 sudo pip install gpiozero
 
