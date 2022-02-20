@@ -15,3 +15,20 @@
 wget   https://raw.githubusercontent.com/AdTekDev/IoT.SamSung/main/B01/timsolonnhat.py
 
 python  timsolonnhat.py 
+
+
+# Install
+
+sudo apt-get install wiringpi
+(http://wiringpi.com/download-and-install/)
+
+
+--- python 
+
+sudo apt install python3-gpiozero
+sudo apt install python-gpiozero
+
+hay
+sudo pip3 install gpiozero
+sudo pip install gpiozero
+
