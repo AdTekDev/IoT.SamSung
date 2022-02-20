@@ -23,7 +23,7 @@ sudo apt-get install wiringpi
 (http://wiringpi.com/download-and-install/)
 
 
---- python 
+# install python 
 
 sudo apt install python3-gpiozero
 sudo apt install python-gpiozero
