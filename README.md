@@ -1,7 +1,7 @@
 # IoT.SamSung
 
 ## LIBs
-- https://gpiozero.readthedocs.io/en/stable/   
+- https://gpiozero.readthedocs.io/en/stable/installing.html     
 - https://github.com/WiringPi/WiringPi  
 - http://wiringpi.com/  
 - https://abyz.me.uk/rpi/pigpio/  
@@ -11,6 +11,9 @@ Các thư viện khác:
 - https://www.ics.com/blog/gpio-programming-exploring-libgpiod-library  
 ...
 
+## Tham khảo
+- https://www.raspberrypi.com/documentation/computers/os.html#gpio-in-python  
+- https://gpiozero.readthedocs.io/en/stable/   
 
 # Chạy thử
 
