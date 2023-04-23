@@ -8,10 +8,13 @@
 
 Các thư viện khác:
 - https://git.kernel.org/pub/scm/libs/libgpiod/libgpiod.git/about/ 
+- https://www.ics.com/blog/gpio-programming-exploring-libgpiod-library  
 ...
 
 
-# C / GCC
+# Chạy thử
+
+## C / GCC
 
    wget https://raw.githubusercontent.com/AdTekDev/IoT.SamSung/main/B01/timsolonnhat.c
    
@@ -20,7 +23,7 @@ Các thư viện khác:
    ./timso
 
 
-# Python 
+## Python 
 
 wget   https://raw.githubusercontent.com/AdTekDev/IoT.SamSung/main/B01/timsolonnhat.py
 
@@ -40,7 +43,7 @@ cd WiringPi
 ./build   
 
 
-# install python 
+## install python 
 
 
 sudo apt install python3-gpiozero  
@@ -61,7 +64,9 @@ sudo pip install gpiozero
 >>> led.on()
 >>> 
 
-# B03 
+# Bài tập
+
+## B03 
 
 LED - LED board 
 https://gpiozero.readthedocs.io/en/stable/recipes.html#led 
