@@ -14,6 +14,15 @@
 		MISO <-> D12  
 		MOSI <-> D11  
 		5V <-> 5V  
+
+  		hay
+
+		PS2DAT = Pin 12 = MISO
+		PS2CMD = Pin 13 = MOSI
+		PS2SEL = Pin 14 = SS
+		PS2CLK = Pin 15 = SCLK
+
+
 	6. Code 2 - https://nshopvn.com/product/remote-dieu-khien-ps2-khong-day-ps2-robot-controller/  
 	
 
