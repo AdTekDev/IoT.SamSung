@@ -51,6 +51,7 @@
 		Chân R_EN , L_EN nối chung lại rồi nối với PWM (VD chân digital 5) để điều khiển tốc độ động cơ.  
 	
 	3. Code:  
-	https://nshopvn.com/product/mach-dieu-khien-dong-co-dc-bts7960-43a-1-dong-co/  
-	
+	https://nshopvn.com/product/mach-dieu-khien-dong-co-dc-bts7960-43a-1-dong-co/ 
+ 
+ 	https://github.com/luisllamasbinaburo/Arduino-BTS7960  
 	
